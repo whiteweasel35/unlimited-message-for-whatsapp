@@ -1,7 +1,7 @@
 import pyautogui as gui
 import time
 
-
+#author white weasel
 message = input("mesajınızı giriniz:")
 number = input("kaç defa göndermek istediğinizi girin:")
 
